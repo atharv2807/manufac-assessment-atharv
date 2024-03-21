@@ -19,8 +19,9 @@ You just need to run the `yarn start` and you will be able to run the project.
 ### If not yet cloned the   project then here's how you can:
 1. Take clone of this project: `git clone https/ssh link`
 2. On terminal open the root directory of this project
-3. Run command `yarn start`
-4. Hurray, the react server should now be visible on port 3000.
+3. To install dependencies run: `yarn install`
+4. Run command `yarn start`
+5. Hurray, the react server should now be visible on port 3000.
 
 ### Screenshot:
 ![Screenshot of screen](./public/image.png)
